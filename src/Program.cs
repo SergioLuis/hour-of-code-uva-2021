@@ -18,10 +18,19 @@ namespace HourOfCode
             // Run<DebuggerExample>(args);
 
             // 03_BuiltInTypes
-            Run<BuiltInTypes>(args);
+            // Run<BuiltInTypes>(args);
 
-            // 04_Operands
-            // Run<Operands>(args);
+            // 04_ArithmeticOperands
+            // Run<ArithmeticOperands>(args);
+
+            // 05_BooleanOperands
+            // Run<BooleanOperands>(args);
+
+            // 06_FlowControl
+            // Run<FlowControl>(args);
+
+            // 07_ConsoleInputOutput
+            Run<ConsoleInputOutput>(args);
         }
 
         static void Run<T>(string[] args)
