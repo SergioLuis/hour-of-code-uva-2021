@@ -16,6 +16,5 @@ namespace HourOfCode.Examples
 
             Console.WriteLine("Ok thx bye {0} {1}", name, surname);
         }
-
     }
 }
