@@ -2,7 +2,7 @@ using System;
 
 namespace HourOfCode.Examples
 {
-    public class ArithmeticOperands
+    public class ArithmeticOperators
     {
         public static void Main(string[] args)
         {

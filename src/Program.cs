@@ -14,8 +14,11 @@ namespace HourOfCode
             // HelloWorld
             // return Run<HelloWorld>(args);
 
+            // ProgramArguments
+            // return Run<ProgramArguments>(args);
+
             // DebuggerExample
-            // return Run<DebuggerExample>(args);
+            // return Run<Debugger>(args);
 
             // BuiltInTypes
             // return Run<BuiltInTypes>(args);
@@ -23,8 +26,11 @@ namespace HourOfCode
             // ValueTypes
             // return Run<ValueTypes>(args);
 
-            // BooleanOperands
-            // return Run<BooleanOperands>(args);
+            // ArithmeticOperators
+            // return Run<ArithmeticOperators>(args);
+
+            // BooleanOperators
+            // return Run<BooleanOperators>(args);
 
             // FlowControl
             // return Run<FlowControl>(args);
@@ -40,6 +46,18 @@ namespace HourOfCode
 
             // Exercise A
             // return Run<Factorial>(args);
+
+            // ErrorHandling
+            // return Run<ErrorHandling>(args);
+
+            // CustomExceptions
+            // return Run<CustomExceptions>(args);
+
+            // Streams
+            // return Run<Streams>(args);
+
+            // Events
+            return Run<Events>(args);
 
             // Exercise B
             // return Run<Factorial2>(args);

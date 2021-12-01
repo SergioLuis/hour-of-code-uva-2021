@@ -2,7 +2,7 @@ using System;
 
 namespace HourOfCode.Examples
 {
-    public class BooleanOperands
+    public class BooleanOperators
     {
         public static void Main(string[] args)
         {
